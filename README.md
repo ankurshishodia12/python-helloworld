@@ -1,1 +1,1 @@
-# Hii, This is a python-helloworld test application
+# Hii, This is a python-helloworld application
